@@ -1,0 +1,3 @@
+crytic_compile==0.2.2
+slither_analyzer==0.8.2
+solc_select==0.2.1
