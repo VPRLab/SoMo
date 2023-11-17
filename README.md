@@ -12,7 +12,7 @@ You can find the ISSTA paper via this [link](https://daoyuan14.github.io/papers/
 @INPROCEEDINGS{SoMo2023,
   author = {Fang, Yuzhou and Wu, Daoyuan and Yi, Xiao and Wang, Shuai and Chen, Yufan and Chen, Mengjie and Liu, Yang and Jiang, Lingxiao},
   booktitle = {Proc. ACM ISSTA},
-  title = {Beyond ``Protected'' and ``Private'': An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts (To appear)},
+  title = {Beyond ``Protected'' and ``Private'': An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts},
   year = {2023}
 }
 ```
